@@ -1,0 +1,15 @@
+✅ Project Overview
+Overview:
+The Bank Loan Report Project involves analyzing loan issuance, repayment, and default data to evaluate overall financial health, track trends, and distinguish between good and bad loans. The goal is to extract key insights from the data, monitor metrics like funded/received amounts, average interest rates, DTI (Debt-to-Income), and loan application statuses, and visualize month-over-month (MoM) and month-to-date (MTD) changes.
+
+Key Objectives:
+
+Analyze overall loan performance metrics.
+
+Compare Good vs. Bad loans based on funding and repayment.
+
+Identify trends using MoM and MTD metrics.
+
+Understand loan statuses like Fully Paid, Charged Off, and Current.
+
+Visualize and summarize data for clear stakeholder reporting.
